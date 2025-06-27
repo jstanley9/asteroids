@@ -5,6 +5,9 @@ from player import *
 from shot import *
 from constants import *
 
+#python3 -m venv venv
+#source venv/bin/activate
+
 def main():
 
     print("Starting Asteroids!")
